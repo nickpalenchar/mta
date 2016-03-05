@@ -12,7 +12,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _classCallCheck(this, MainController);
 
       this.$http = $http;
-      this.awesomeThings = [];
+      this.awesomeThings = ["awesome thing one"];
 
       $http.get('/api/things').then(function (response) {
         _this.awesomeThings = response.data;

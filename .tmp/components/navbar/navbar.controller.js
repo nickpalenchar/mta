@@ -9,7 +9,7 @@ function NavbarController() {
   _classCallCheck(this, NavbarController);
 
   this.menu = [{
-    'title': 'Home',
+    'title': 'New Check-up',
     'state': 'main'
   }];
   this.isCollapsed = true;
