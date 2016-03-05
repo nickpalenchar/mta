@@ -1,0 +1,12 @@
+time
+
+distance into trip
+
+next scheduled stop (distance) -- (
+
+
++ Whatever data is needed too
+   + calculate average MPH between stops.
+   + calculate how often the bus is at capacity
+   + calculate the max amount of time someone might wait at one of the stops (factored by how many ppl is usually at that stop)
+   + calculate if the bus is early or late according to scheduled time.
